@@ -9,3 +9,11 @@
 .row div {
     border: 1px solid blue ;
 }
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    font-family: 'Courier New', Courier, monospace;
+}
