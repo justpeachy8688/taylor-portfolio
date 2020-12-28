@@ -34,3 +34,11 @@ body {
     min-height:350px;
     background-image: url("https://dummyimage.com/350X350/000/fff");
 }
+ 
+.navbar {
+font-family: 'Courier New', Courier, monospace;
+}
+
+.a {
+    font-weight: 600;
+}
