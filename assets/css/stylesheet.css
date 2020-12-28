@@ -18,15 +18,15 @@ div {
     font-family: 'Courier New', Courier, monospace;
 }
 
-linkedin img {
+.linkedin img {
     position: absolute;
 }
 
 body {
- background-image: url("https://i.pinimg.com/originals/15/43/df/1543df6fbe7c9b04f0a43544b7bd47df.jpg");
+ background-image: url("https://cdn.hipwallpaper.com/i/49/50/zuYNxC.jpg");
  background-color: #cccccc;
- background-repeat: round;
- background-size: 50vw;
+ 
+ background-size: 100vw;
 }
 
 .col {
@@ -34,4 +34,3 @@ body {
     min-height:350px;
     background-image: url("https://dummyimage.com/350X350/000/fff");
 }
-
