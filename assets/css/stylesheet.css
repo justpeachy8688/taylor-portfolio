@@ -3,11 +3,11 @@
 }
 
 .container {
-    border: 1px solid black ;
+    /* border: 1px solid black ; */
 }
 
 .row div {
-    border: 1px solid blue ;
+    /* border: 1px solid blue ; */
 }
 
 p {
@@ -17,3 +17,21 @@ p {
 div {
     font-family: 'Courier New', Courier, monospace;
 }
+
+linkedin img {
+    position: absolute;
+}
+
+body {
+ background-image: url("https://i.pinimg.com/originals/15/43/df/1543df6fbe7c9b04f0a43544b7bd47df.jpg");
+ background-color: #cccccc;
+ background-repeat: round;
+ background-size: 50vw;
+}
+
+.col {
+    min-width:350px;
+    min-height:350px;
+    background-image: url("https://dummyimage.com/350X350/000/fff");
+}
+
