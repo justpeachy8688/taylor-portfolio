@@ -43,12 +43,12 @@ font-family: 'Courier New', Courier, monospace;
     font-weight: 600;
 }
 
-.resume {
+#resume {
     border: solid 2px black;
     color: black;
-    font-size: 1vw;
+    /* font-size: 1vw; */
     padding: 3px;
-    margin-left: 94%;
+    margin-left: 1rem;
     
 }
 
