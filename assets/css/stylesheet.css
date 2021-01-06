@@ -55,3 +55,7 @@ font-family: 'Courier New', Courier, monospace;
 body {
     font-family: 'Courier New', Courier, monospace, !important;
 }
+
+.pic { 
+    height: 250px; width: 200px; 
+}
