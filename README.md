@@ -10,3 +10,5 @@ I have also accomplished:
 * Utilized Bootstrap to minimize the use of Media Queries.
 * Created a space for my personal Bio and images.
 * Used Semantic HTML.
+
+[Link to deployed application] (https://justpeachy8688.github.io/taylor-portfolio/)

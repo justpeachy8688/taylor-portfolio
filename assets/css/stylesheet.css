@@ -25,8 +25,11 @@ div {
 body {
  background-image: url("https://cdn.hipwallpaper.com/i/49/50/zuYNxC.jpg");
  background-color: #cccccc;
- 
- background-size: 100vw;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ font-family: 'Courier New', Courier, monospace, !important;
 }
 
 /* .col {
@@ -52,10 +55,10 @@ font-family: 'Courier New', Courier, monospace;
     
 }
 
-body {
-    font-family: 'Courier New', Courier, monospace, !important;
-}
-
 .pic { 
     height: 250px; width: 200px; 
+}
+
+.github {
+    height: 25px; width: 25px;
 }
