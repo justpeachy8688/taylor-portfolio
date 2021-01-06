@@ -12,3 +12,5 @@ I have also accomplished:
 * Used Semantic HTML.
 
 [Link to deployed application] (https://justpeachy8688.github.io/taylor-portfolio/)
+
+![Example Screenshot] (./assets/screenshot1.png)
