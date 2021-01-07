@@ -67,3 +67,18 @@ font-family: Verdana, Geneva, Tahoma, sans-serif !important;
 /* .my-2 {
    height: 300px; width: 240px; 
 } */
+
+footer 
+.nav-link 
+{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  color: black;
+  padding: 3px;
+  background-color:rgb(47, 126, 150) ;
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
