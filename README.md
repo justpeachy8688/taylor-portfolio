@@ -14,17 +14,17 @@ I have also accomplished:
 [Link to deployed application](https://justpeachy8688.github.io/taylor-portfolio)
 
 
-![Example Screenshot](assets/aboutme-small.png)
+![Example Screenshot](assets/read-me-screenshots/aboutme-small.png)
 
-![Example Screenshot](assets/aboutme-large.png)
+![Example Screenshot](assets/read-me-screenshots/aboutme-large.png)
 
-![Example Screenshot](assets/portfolio-small.png)
+![Example Screenshot](assets/read-me-screenshots/portfolio-small.png)
 
-![Example Screenshot](assets/portfolio-large.png)
+![Example Screenshot](assets/read-me-screenshots/portfolio-large.png)
 
-![Example Screenshot](assets/contact-small.png)
+![Example Screenshot](assets/read-me-screenshots/contact-small.png)
 
-![Example Screenshot](assets/contact-large.png)
+![Example Screenshot](assets/read-me-screenshots/contact-large.png)
 
 
 
