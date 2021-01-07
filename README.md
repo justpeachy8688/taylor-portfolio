@@ -13,4 +13,4 @@ I have also accomplished:
 
 [Link to deployed application] (https://justpeachy8688.github.io/taylor-portfolio/)
 
-![Example Screenshot] (./assets/portfolio-pics/screenshot1)
+![Example Screenshot] (./assets/portfolio-pics/screenshot1.png)
