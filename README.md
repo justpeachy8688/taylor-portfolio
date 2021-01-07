@@ -11,6 +11,22 @@ I have also accomplished:
 * Created a space for my personal Bio and images.
 * Used Semantic HTML.
 
-[Link to deployed application] (https://justpeachy8688.github.io/taylor-portfolio/)
+[Link to deployed application](https://justpeachy8688.github.io/taylor-portfolio)
 
-![Example Screenshot] (./assets/portfolio-pics/screenshot1.png)
+
+![Example Screenshot](assets/aboutme-small.png)
+
+![Example Screenshot](assets/aboutme-large.png)
+
+![Example Screenshot](assets/portfolio-small.png)
+
+![Example Screenshot](assets/portfolio-large.png)
+
+![Example Screenshot](assets/contact-small.png)
+
+![Example Screenshot](assets/contact-large.png)
+
+
+
+
+
