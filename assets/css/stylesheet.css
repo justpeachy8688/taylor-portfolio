@@ -57,9 +57,13 @@ font-family: Verdana, Geneva, Tahoma, sans-serif !important;
 }
 
 .pic { 
-    height: 250px; width: 200px; 
+    height: 300px; width: 225px; 
 }
 
 .github {
     height: 30px; width: 30px;
 }
+
+/* .my-2 {
+   height: 300px; width: 240px; 
+} */
