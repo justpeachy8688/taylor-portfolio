@@ -26,6 +26,12 @@ I have also accomplished:
 
 ![Example Screenshot](assets/read-me-screenshots/contact-large.png)
 
+![Example Screenshot](assets/read-me-screenshots/aboutme-medium.png)
+
+![Example Screenshot](assets/read-me-screenshots/portfolio-medium.png)
+
+![Example Screenshot](assets/read-me-screenshots/contact-medium.png)
+
 
 
 
