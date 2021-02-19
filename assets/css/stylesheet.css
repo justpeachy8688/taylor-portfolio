@@ -23,7 +23,7 @@ div {
     position: absolute;
 }
 
-body {
+body.contact body.home {
  background-image: url("https://cdn.hipwallpaper.com/i/49/50/zuYNxC.jpg");
  background-color: #cccccc;
  background-position: center;
@@ -66,19 +66,30 @@ font-family: Verdana, Geneva, Tahoma, sans-serif !important;
 
 /* .my-2 {
    height: 300px; width: 240px; 
+   object-fit: cover;
 } */
 
 footer 
 .nav-link 
 {
-  text-align: center;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: large;
-  color: black;
-  padding: 3px;
-  background-color:rgb(47, 126, 150) ;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+color: black;
+padding: 3px;
+background-color:rgb(47, 126, 150) ;
     position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
+left: 0;
+bottom: 0;
+width: 100%;
+}
+
+body.portfolio {
+    background-color: darkseagreen !important;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    
 }
